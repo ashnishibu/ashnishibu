@@ -7,7 +7,7 @@
 ## 🌟 About Me
 
 🎓 **Computer Science Student** at [ASIET](https://www.adishankara.ac.in/)  
-📚 **Specializing**: AI/DS 
+📚 **Specializing**: AI/DS <br>
 🔍 **Year**: Navigating through my second year of coding adventures  
 💡 **Passion**: Transforming complex problems into elegant solutions  
 
